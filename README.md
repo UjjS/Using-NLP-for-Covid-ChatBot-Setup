@@ -23,6 +23,6 @@
 
 ### Working Model
 
-![Alt Text](https://drive.google.com/file/d/1wc5cJyuMsYKUVmNuQPpr_OSXB-wGBtRs/view?usp=sharing)
+![Alt Text](https://github.com/UjjS/Using-NLP-for-Covid-ChatBot-Setup/blob/master/ezgif.com-gif-maker.gif)
 
 
