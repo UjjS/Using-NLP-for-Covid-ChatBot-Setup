@@ -23,5 +23,5 @@
 
 ### Working Model
 
-![Alt Text](https://drive.google.com/file/d/17hBuS1RrOWEv3Pzjn5bK2oyFMlW8FQBn/view?usp=sharing)
+![Alt Text](https://drive.google.com/file/d/1wc5cJyuMsYKUVmNuQPpr_OSXB-wGBtRs/view?usp=sharing)
 
